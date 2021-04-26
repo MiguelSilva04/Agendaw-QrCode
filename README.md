@@ -1,1 +1,1 @@
-# Agendaw-QrCode
+# Agenda/QrCode
